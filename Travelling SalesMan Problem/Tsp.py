@@ -16,6 +16,7 @@ class TSP:
             return True
         else:
             return False
+        
 
     def __eq__(self,other):
         return self.visitedList == other.visitedList
