@@ -1,5 +1,4 @@
 import copy
-
 container=[0,0]
 goal=[0,0]
 
